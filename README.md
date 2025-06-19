@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MAzizSaidi&label=Profile%20views&color=0e75b6&style=flat" alt="MAzizSaidi" /> </p>
 
 - 👨‍💻 I'm Aziz Saidi, a passionate **full-stack web developer** and student at **ISET Béja**.
-- 🌱 I love exploring new technologies and currently learning **Laravel**, **Vue.js**, and **Docker**.
+- 🌱 I am passionate about embracing cutting-edge technologies and continuously expanding my expertise, currently focusing on mastering Laravel, Vue.js, and Spring Boot to build scalable, modern, and efficient web applications.
 - 💼 I recently completed a 4-month internship at **Inspark**, working on gamification, authentication, and cloud integration using **Hexagonal Architecture**, **Keycloak**, and **AWS/Azure**.
 - 🛠️ I enjoy debugging, solving problems, and collaborating with teams using **Jira** and **Confluence**.
 - 📫 You can reach me at **azizbentaher.saidi@gmail.com**.
