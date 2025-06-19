@@ -15,7 +15,7 @@
 
 ## 🚀 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,vue,js,html,css,bootstrap,tailwind,docker,git,github,mysql,python,java,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,vue,js,html,css,bootstrap,tailwind,docker,git,github,mysql,java,react,nodejs,express,mongodb,typescript,angular,postgres,flutter,androidstudio,kotlin)](https://skillicons.dev)
 
 ## ⚡ GitHub Stats 
 
