@@ -14,11 +14,7 @@
 </p>
 
 ## 🚀 Skills
-
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,mysql,postgres,mongodb)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=vue,react,angular,js,typescript,html,css,bootstrap,tailwind)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,docker,git,github)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=java,spring,flutter,androidstudio,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,vue,js,html,css,bootstrap,tailwind,docker,git,github,mysql,java,react,nodejs,express,mongodb,typescript,angular,postgres,flutter,androidstudio,kotlin)](https://skillicons.dev)
 
 ## ⚡ GitHub Stats 
 
