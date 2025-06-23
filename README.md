@@ -22,9 +22,13 @@
 <tr border="none">
 <td width="50%" align="center">
 	
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MAzizSaidi&theme=dark" alt="GitHub Streak" /></a>	
+[![GitHub Streak](https://streak-stats.demolab.com?user=MAzizSaidi&theme=dark)](https://git.io/streak-stats)
+
 <!-- Optional: LeetCode stats if you have a username -->
-<!-- [![MAzizSaidi's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=MAzizSaidi&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats) -->
+<!-- 
+[![MAzizSaidi's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=MAzizSaidi&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats) 
+-->
+
 
 </td>
 <td width="50%" align="center">
